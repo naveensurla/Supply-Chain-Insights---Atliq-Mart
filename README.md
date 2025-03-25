@@ -7,7 +7,7 @@ As part of the Codebasics Resume Project Challenge, I have performed data analys
 [Codebasics Resume Project Challenge Link](https://codebasics.io/challenge/codebasics-resume-project-challenge)
 
 
-## Problem Statement
+## Live Interactive Dashboard
 
 🔗 **[Live Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWUxYjRlMDQtNWM1YS00NDY0LWFkYjMtMGI5ZGY0MDhkNjZmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**
 
@@ -74,7 +74,11 @@ As the data analyst on this project, I undertook the following:
 ---
 
 ## 📥 Project Files
-- **PBIX File Download:** [https://drive.google.com/file/d/1Kc9bdBGY8yv7qki1ejIzTVpfeI8HQX0Q/view?usp=drive_link)
+
+## Live Interactive Dashboard
+
+🔗 **[PBIX File Download:](https://drive.google.com/file/d/1Kc9bdBGY8yv7qki1ejIzTVpfeI8HQX0Q/view?usp=drive_link)**
+
 
 ---
 ## **About Me**
