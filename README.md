@@ -6,8 +6,7 @@ As part of the Codebasics Resume Project Challenge, I have performed data analys
 ## Challenge
 [Codebasics Resume Project Challenge Link](https://codebasics.io/challenge/codebasics-resume-project-challenge)
 
-## Live Dashboard
-[https://app.powerbi.com/view?r=eyJrIjoiOWUxYjRlMDQtNWM1YS00NDY0LWFkYjMtMGI5ZGY0MDhkNjZmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+🔗 **[Live Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWUxYjRlMDQtNWM1YS00NDY0LWFkYjMtMGI5ZGY0MDhkNjZmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**
 
 ## Problem Statement
 
@@ -64,12 +63,21 @@ As the data analyst on this project, I undertook the following:
 - **Trend Analysis** — Month-over-month performance tracking
 - **Recommendations Page** — Actionable solutions
 
+## **Tools & Technologies Used**
+- **Power BI** for interactive data visualization.
+- **DAX** for custom calculations and measures.
+- **Power Query** for data transformation and cleaning.
+
 ---
 
 ## 📥 Project Files
 - **PBIX File Download:** [https://drive.google.com/file/d/1Kc9bdBGY8yv7qki1ejIzTVpfeI8HQX0Q/view?usp=drive_link)
 
 ---
+## **About Me**
+I am an aspiring Data Analyst looking for a career transition, with a background as an Engineer in Project Sales. Passionate about transforming raw data into meaningful insights, I aim to leverage analytical skills to drive data-driven decision-making.  
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/naveen-surla-587565242/) or explore more projects on [GitHub](https://github.com/naveensurla).
 
 ## 🙌 Connect & Feedback
 If you like this project or have suggestions, feel free to connect with me or leave feedback!
