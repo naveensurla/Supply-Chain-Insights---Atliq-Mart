@@ -33,7 +33,19 @@ As the data analyst on this project, I undertook the following:
 ## Dashboard Snapshot
 
 <p align="center">
-  <img src="https://github.com/Naveen-S6/AtliQ_Mart_Supply_Chain_Analysis/blob/main/resources/Dashboard.jpg" width="300">
+  <img src="https://github.com/naveensurla/Supply-Chain-Insights---Atliq-Mart/blob/bc68daf7516b2767bd915ea30281202918119d32/Report%20Views/Supply%20Chain%20Insights%20-%20Over%20View.jpg" width="500">
+</p>
+
+<p align="center">
+  <img src="https://github.com/naveensurla/Supply-Chain-Insights---Atliq-Mart/blob/bc68daf7516b2767bd915ea30281202918119d32/Report%20Views/Supply%20Chain%20Insights%20-%20Customer%20Analysis.jpg" width="500">
+</p>
+
+<p align="center">
+  <img src="https://github.com/naveensurla/Supply-Chain-Insights---Atliq-Mart/blob/bc68daf7516b2767bd915ea30281202918119d32/Report%20Views/Supply%20Chain%20Insights%20-%20Product%20Analysis.jpg" width="500">
+</p>
+
+<p align="center">
+  <img src="https://github.com/naveensurla/Supply-Chain-Insights---Atliq-Mart/blob/bc68daf7516b2767bd915ea30281202918119d32/Report%20Views/Supply%20Chain%20Insights%20-%20Atliq%20Mart_page-0004.jpg" width="500">
 </p>
 
 ## Key Insights & Recommendations
