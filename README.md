@@ -27,7 +27,7 @@ As the data analyst on this project, I undertook the following:
 ## Data Model
 
 <p align="center">
-  <img src="https://github.com/Naveen-S6/AtliQ_Mart_Supply_Chain_Analysis/blob/main/resources/data_model.png" height="400">
+  <img src="https://github.com/naveensurla/Supply-Chain-Insights---Atliq-Mart/blob/ef0312412bd14661c377de1959fc684d9f1be19f/Data_Model/Data%20Model.png" height="400">
 </p>
 
 ## Dashboard Snapshot
